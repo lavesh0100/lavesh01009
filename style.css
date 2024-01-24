@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+
+.iCoder, .Welcome, .Lavesh, .Support, .MarinKerf, .SwippyJeffer, .webdevelop, .contactus {
+    font-weight: 600;
+}
+.signup .login {
+    font-weight: 600;
+}
+.Support {
+    color: black;
+}
